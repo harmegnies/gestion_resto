@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="gestion_resto2" match-name="administrateur"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_categorierecette"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_catingredient"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_commentaire"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_detailrecette"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_identifiant"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_ing_saison"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_ingredient"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_membre"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_photo"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_recette"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_saison"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_theme"/>
+  <table-filter match-catalog="gestion_resto2" match-name="c_theme_recette"/>
+  <table-filter match-catalog="gestion_resto2" match-name="f_message"/>
+  <table-filter match-catalog="gestion_resto2" match-name="f_theme"/>
+  <table-filter match-catalog="gestion_resto2" match-name="f_topic"/>
+  <table-filter match-catalog="gestion_resto2" match-name="f_utilisateur"/>
+  <table-filter match-catalog="gestion_resto2" match-name="l_auteur"/>
+  <table-filter match-catalog="gestion_resto2" match-name="l_auteur_livre"/>
+  <table-filter match-catalog="gestion_resto2" match-name="l_categorielivre"/>
+  <table-filter match-catalog="gestion_resto2" match-name="l_commentaire"/>
+  <table-filter match-catalog="gestion_resto2" match-name="l_edition"/>
+  <table-filter match-catalog="gestion_resto2" match-name="l_livre"/>
+  <table-filter match-catalog="gestion_resto2" match-name="moderateur"/>
+  <table-filter match-catalog="gestion_resto2" match-name="personne"/>
+  <table-filter match-catalog="gestion_resto2" match-name="r_arrondissement"/>
+  <table-filter match-catalog="gestion_resto2" match-name="r_cuisine"/>
+  <table-filter match-catalog="gestion_resto2" match-name="r_cuisine_resto"/>
+  <table-filter match-catalog="gestion_resto2" match-name="r_localite"/>
+  <table-filter match-catalog="gestion_resto2" match-name="r_photo"/>
+  <table-filter match-catalog="gestion_resto2" match-name="r_restaurant"/>
+  <table-filter match-catalog="gestion_resto2" match-name="r_restaurateur"/>
+  <table-filter match-catalog="gestion_resto2" match-name="r_specialite"/>
+  <table-filter match-catalog="gestion_resto2" match-name="responsableediteur"/>
+</hibernate-reverse-engineering>
